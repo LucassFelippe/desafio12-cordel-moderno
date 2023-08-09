@@ -61,7 +61,8 @@ section.imagem{
    background-color: gray;
    color: white;
    background-image: url(imagens/background001.jpg);
-   background-position:left center;
+   background-position: left center;
+   background-repeat: no-repeat;
    }
 
    section.imagem > p{
