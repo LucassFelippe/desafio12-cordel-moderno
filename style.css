@@ -71,6 +71,7 @@ section.imagem{
    box-shadow: inset 6px 6px 10px 0px rgba(0, 0, 0, 0.678);
    background-size: cover;
    background-attachment: fixed;
+   border-radius: 3px;
    }
 
    section.imagem > p{
